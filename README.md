@@ -1,6 +1,6 @@
 # Antigravity2Api
 
-本服务是一个兼容 Claude 接口、并提供 Gemini 原生接口透传的本地代理服务，支持多账号轮询、API Key 认证以及自定义代理配置。
+本服务将 Antigravity 代理出来，转换为标准的 Claude API 和 Gemini API 接口，支持多账号轮询、API Key 认证以及自定义代理配置。
 
 特性：
 
